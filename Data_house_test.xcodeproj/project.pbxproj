@@ -73,11 +73,6 @@
 		6339B8FD26F1EFB0002D72DB = {
 			isa = PBXGroup;
 			children = (
-				63E1B55C26F4C29C009B4E80 /* Resources */,
-				63E1B55926F4C10F009B4E80 /* Extentions */,
-				63E1B55626F4BA2C009B4E80 /* Models */,
-				63E1B55526F4B959009B4E80 /* Controllers */,
-				63E1B55026F4B905009B4E80 /* Service */,
 				6339B90826F1EFB1002D72DB /* Data_house_test */,
 				6339B91F26F1EFB9002D72DB /* Data_house_testTests */,
 				6339B90726F1EFB0002D72DB /* Products */,
@@ -96,6 +91,11 @@
 		6339B90826F1EFB1002D72DB /* Data_house_test */ = {
 			isa = PBXGroup;
 			children = (
+				63E1B55C26F4C29C009B4E80 /* Resources */,
+				63E1B55926F4C10F009B4E80 /* Extentions */,
+				63E1B55626F4BA2C009B4E80 /* Models */,
+				63E1B55526F4B959009B4E80 /* Controllers */,
+				63E1B55026F4B905009B4E80 /* Service */,
 				6339B90926F1EFB1002D72DB /* AppDelegate.swift */,
 				6339B90F26F1EFB1002D72DB /* Main.storyboard */,
 				6339B91226F1EFB8002D72DB /* Assets.xcassets */,
